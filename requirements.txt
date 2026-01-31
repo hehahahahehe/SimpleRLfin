@@ -1,0 +1,19 @@
+# Core Reinforcement Learning & Trading
+finrl
+stable-baselines3[extra]
+gymnasium
+yfinance
+pandas
+numpy
+
+# Technical Analysis & Preprocessing
+stockstats
+scikit-learn
+
+# Visualization & Reporting
+matplotlib
+plotly
+pyfolio-reloaded
+
+# Financial Data & Utilities
+pandas_market_calendars
